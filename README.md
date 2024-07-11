@@ -15,7 +15,7 @@ I possess many technical skills which I do my best to showcase in my projects. T
 - Knowledge of Agile, Waterfall, Scrum, PRINCE2 methodologies **[(Project+ Certified)](https://www.credly.com/badges/922e12ff-b235-422b-9097-17107f79563e/public_url)**
 
 ## HOW TO REACH ME
-I totally understand that a phone number or email would be preferred for a synchronous communication, but sadly, personal info can't be given away on a public profile. However, I am more than happy to connect with you via my [LinkedIn Profile](www.linkedin.com/in/miguelgarcesl) :)!
+I totally understand that a phone number or email would be preferred for a synchronous communication, but sadly, personal info can't be given away on a public profile. However, I am more than happy to connect with you via my [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/) :)!
 
 
 
