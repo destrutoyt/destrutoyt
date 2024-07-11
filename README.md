@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there👋
+
+My name is **Miguel Garces Lenis** and I currently working hard on completing my **B.S. in Software Engineering** at Western Governors University (WGU).
+
+
 
 <!--
 **destrutoyt/destrutoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
