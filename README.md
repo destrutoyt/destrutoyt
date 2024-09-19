@@ -4,7 +4,7 @@ I am currently looking internships or entry-level opportunties at any company th
 
 ## PROJECTS
 - [Weather App](https://github.com/destrutoyt/Weather_App) -> Interactive weather applications which shows real-time weather on specific parts of the world. It includes many details like temperature, wind speeds, custom conditions (not official alerts from the National Weather Services), and much more.
-- [Weather Data Program](https://github.com/destrutoyt/Weather-Data-Program) -> A program which extracts NOAA data and creates a weather database with accurate present and next week details. It includes a histogram which provides visual data of humidity.
+- Front-End Website -> COMING SOON!!!
 
 ## SKILLS
 I possess many technical skills which I do my best to showcase in my projects. These skills include:
