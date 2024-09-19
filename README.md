@@ -6,12 +6,11 @@ I am currently looking internships or entry-level opportunties at any company th
 - [Weather App](https://github.com/destrutoyt/Weather_App) -> Interactive weather applications which shows real-time weather on specific parts of the world. It includes many details like temperature, wind speeds, custom conditions (not official alerts from the National Weather Services), and much more.
 - Front-End Website -> COMING SOON!!!
 
-## SKILLS
-I possess many technical skills which I do my best to showcase in my projects. These skills include:
-- Python (Including list comprehensions, loops, data structures and algorithms, etc)
+## TECH STACK
+- Python
 - MySQL & Database Management
 - Version control (Github, Gitlab, Git)
-- HTML & CSS
+- Web Development (HTML, CSS, JavaScript)
 - Knowledge of Agile, Waterfall, Scrum, PRINCE2 methodologies **[(Project+ Certified)](https://www.credly.com/badges/922e12ff-b235-422b-9097-17107f79563e/public_url)**
 
 ## HOW TO REACH ME
