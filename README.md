@@ -4,7 +4,7 @@ I am currently looking internships or entry-level opportunties at any company th
 
 ## PROJECTS
 - [Weather App](https://github.com/destrutoyt/Weather_App) -> Interactive weather applications which show real-time weather in specific parts of the world. It includes details like temperature, wind speeds, custom conditions (not official alerts from the National Weather Services), and much more.
-- Front-End Website[https://github.com/destrutoyt/Front-End-Project] -> Front-End web that showcases skills in HTML and CSS, as well as for Responsive Design and JavaScript. It features many elements, including tables, lists, navigations (dropdown), and much more for a website related to the state of New Jersey.
+- [Front-End Website](https://github.com/destrutoyt/Front-End-Project) -> Front-End web that showcases skills in HTML and CSS, as well as for Responsive Design and JavaScript. It features many elements, including tables, lists, navigations (dropdown), and much more for a website related to the state of New Jersey.
 
 ## TECH STACK
 - Python
