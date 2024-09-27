@@ -3,8 +3,8 @@ My name is **Miguel Garces Lenis** and I am currently working hard on completing
 I am currently looking internships or entry-level opportunties at any company that is looking for a **sofware engineer, IT support, database manager, and web developer**, but open to other roles as well :D!
 
 ## PROJECTS
-- [Weather App](https://github.com/destrutoyt/Weather_App) -> Interactive weather applications which shows real-time weather on specific parts of the world. It includes many details like temperature, wind speeds, custom conditions (not official alerts from the National Weather Services), and much more.
-- Front-End Website -> COMING SOON!!!
+- [Weather App](https://github.com/destrutoyt/Weather_App) -> Interactive weather applications which show real-time weather in specific parts of the world. It includes details like temperature, wind speeds, custom conditions (not official alerts from the National Weather Services), and much more.
+- Front-End Website[https://github.com/destrutoyt/Front-End-Project] -> Front-End web that showcases skills in HTML and CSS, as well as for Responsive Design and JavaScript. It features many elements, including tables, lists, navigations (dropdown), and much more for a website related to the state of New Jersey.
 
 ## TECH STACK
 - Python
