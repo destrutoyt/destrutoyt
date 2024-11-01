@@ -8,8 +8,8 @@ I am currently looking for internships or entry-level opportunities at any compa
 - **Portfolio Website** -> Coming very soon!! This will serve as my portfolio to showcase my projects, learn more about me, and find other ways to contact me. It is being developed in HTML, CSS (Along with Bootstrap), and JavaScript. In addition, it will feature a responsive design for all devices, smooth animations, and a dark/light theme.
 
 ## TECH STACK
-- Python, HTML, CSS, JavaScript
-- Angular & Bootstrap
+- Python, JavaScript, Typescript, HTML, CSS
+- Angular, Bootstrap & Node.js
 - MySQL & Database Management
 - Version control (Github, Gitlab, Git)
 - Knowledge of Agile, Waterfall, Scrum, PRINCE2 methodologies **[(Project+ Certified)](https://www.credly.com/badges/922e12ff-b235-422b-9097-17107f79563e/public_url)**
