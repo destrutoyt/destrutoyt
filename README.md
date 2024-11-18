@@ -6,6 +6,7 @@ I am currently looking for internships or entry-level opportunities at any compa
 - [Weather App](https://github.com/destrutoyt/Weather_App) -> Interactive weather applications which show real-time weather in specific parts of the world. It includes details like temperature, wind speeds, custom conditions (not official alerts from the National Weather Services), and much more.
 - [Front-End Website](https://github.com/destrutoyt/Front-End-Project) -> Front-End web that showcases skills in HTML and CSS, as well as Responsive Design and some JavaScript. It features many elements, including tables, lists, navigations (including dropdowns), and much more for a website related to the state of New Jersey.
 - [Portfolio Web](https://destrutoyt.github.io/Website---Portfolio/) -> Inside this website, you can find more information about me, including my story, projects, skills, and much more. It features a responsive design for all screen sizes and a light/dark theme for user preference. Enjoy!
+- [DSA & Exercises](https://github.com/destrutoyt/DSA---Exercises) -> Looking to learn a little bit more about DSA? This repository includes data structures (hash maps, binary search) and sort algorithms (bubble sort, selection sort). On top of that, there are solved exercises (most of them from Leetcode) that have a very straightforward problem and solution.
 
 ## TECH STACK
 - Python, JavaScript, Typescript, HTML, CSS
@@ -15,7 +16,7 @@ I am currently looking for internships or entry-level opportunities at any compa
 - Knowledge of Agile, Waterfall, Scrum, PRINCE2 methodologies **[(Project+ Certified)](https://www.credly.com/badges/922e12ff-b235-422b-9097-17107f79563e/public_url)**
 
 ## HOW TO REACH ME
-I totally understand that a phone number or email would be preferred for synchronous communication, but sadly, personal info can't be given away on a public profile. However, I am more than happy to connect with you via my [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/) :)!
+I understand that a phone number or email would be preferred for synchronous communication, but sadly, personal info can't be given away on a public profile. However, I am more than happy to connect with you via my [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/) :)!
 
 
 
