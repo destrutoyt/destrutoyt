@@ -1,5 +1,5 @@
 ## ABOUT ME
-My name is **Miguel Garces Lenis** and I am currently studying towards completing my **B.S. in Software Engineering** at Western Governors University (WGU) with an anticipated graduation date in **July 2027**.
+My name is **Miguel Garces Lenis** and I am currently studying towards completing my **B.S. in Software Engineering** at Western Governors University (WGU) with an anticipated graduation date in **July 2026**.
 I am currently looking for internships or entry-level opportunities at any company looking for a **software engineer or web developer (Front-end, back-end, or full-stack)**. However, I am open to other roles as well :D!
 
 ## PROJECTS
