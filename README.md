@@ -4,9 +4,9 @@ I am currently looking for internships or entry-level opportunities at any compa
 
 ## PROJECTS
 - [Portfolio Web](https://destrutoyt.github.io/MAGL-Portfolio) -> An upgraded portfolio website that features an attractive design, technical background including skills, projects, and experience, and an enhanced contact form with various methods to connect.
-- [Weather App](https://github.com/destrutoyt/Weather_App) -> Interactive weather applications which show real-time weather in specific parts of the world. It includes details like temperature, wind speeds, custom conditions (not official alerts from the National Weather Services), and much more.
-- [Front-End Website](https://github.com/destrutoyt/Front-End-Project) -> Front-End web that showcases skills in HTML and CSS, as well as Responsive Design and some JavaScript. It features many elements, including tables, lists, navigations (including dropdowns), and much more for a website related to the state of New Jersey.
-- [Valentine's Gift](https://github.com/destrutoyt/Valentine-Gift)) -> Interactive & Animated website for Valentine's Day. Use it to ask your close one (or crush!) to be your Valentine in a fun way!!!
+- [Paradign Pet Professionals](https://github.com/destrutoyt/Front-End-Project) -> A responsive, multi-page website built to inform and engage pet owners on proper care for dogs, cats, and exotic pets. This project showcases modern web development practices, including semantic HTML5, CSS3, and responsive design principles.
+- [Weather App](https://github.com/destrutoyt/Weather_App) -> Interactive weather applications that show real-time weather in specific parts of the world. It includes details like temperature, wind speeds, custom conditions (not official alerts from the National Weather Service), and much more.
+- [Valentine's Gift](https://github.com/destrutoyt/Valentine-Gift) -> Interactive & Animated website for Valentine's Day. Use it to ask your close one (or crush!) to be your Valentine in a fun way!!!
 
 ## TECH STACK
 - Python, JavaScript, Java, HTML, CSS
