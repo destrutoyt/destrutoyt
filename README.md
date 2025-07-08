@@ -1,36 +1,81 @@
-## ABOUT ME
-My name is **Miguel Garces Lenis** and I am currently studying towards completing my **B.S. in Software Engineering** at Western Governors University (WGU) with an anticipated graduation date in **July 2026**.
-I am currently looking for internships or entry-level opportunities at any company looking for a **software engineer or web developer (Front-end, back-end, or full-stack)**. However, I am open to other roles as well :D!
+<h1 align="center">👋 Hi there, I'm Miguel Garces Lenis!</h1>
 
-## PROJECTS
-- [Portfolio Web](https://destrutoyt.github.io/MAGL-Portfolio) -> An upgraded portfolio website that features an attractive design, technical background including skills, projects, and experience, and an enhanced contact form with various methods to connect.
-- [Paradign Pet Professionals](https://github.com/destrutoyt/Front-End-Project) -> A responsive, multi-page website built to inform and engage pet owners on proper care for dogs, cats, and exotic pets. This project showcases modern web development practices, including semantic HTML5, CSS3, and responsive design principles.
-- [Weather App](https://github.com/destrutoyt/Weather_App) -> Interactive weather applications that show real-time weather in specific parts of the world. It includes details like temperature, wind speeds, custom conditions (not official alerts from the National Weather Service), and much more.
-- [Valentine's Gift](https://github.com/destrutoyt/Valentine-Gift) -> Interactive & Animated website for Valentine's Day. Use it to ask your close one (or crush!) to be your Valentine in a fun way!!!
+<p align="center">
+🎓 Aspiring Software Engineer | 🌐 Full-Stack Web Developer | 💻 WGU Student  
+</p>
 
-## TECH STACK
-- Python, JavaScript, Java, HTML, CSS
-- Angular, Bootstrap & Node.js
-- MySQL, PostgreSQL
-- Version control (Github, Gitlab, Git)
-- Knowledge of Agile, Waterfall, Scrum, PRINCE2 methodologies **[(Project+ Certified)](https://www.credly.com/badges/922e12ff-b235-422b-9097-17107f79563e/public_url)**
+---
 
-## HOW TO REACH ME
-I understand that a phone number or email would be preferred for synchronous communication, but sadly, personal info can't be given away on a public profile. However, I am more than happy to connect with you via my [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/) :)!
+## 📘 About Me
 
+I'm a passionate software engineering student at **Western Governors University**, graduating in **July 2026** 🎓. I’m actively seeking **internships** and **entry-level opportunities** in:
 
+- 🌐 Front-end / Back-end / Full-stack Web Development  
+- 💡 Software Engineering  
+- 🔧 QA Automation or DevOps (open to learning more!)
+
+Always curious, always learning — and always ready for a challenge. Let’s build something amazing together! 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` | `JavaScript` | `Java` | `HTML` | `CSS`
+
+**Frameworks & Tools:**  
+`Angular` | `Cypress` | `Node.js` | `Bootstrap` | `MySQL` | `PostgreSQL`
+
+**Version Control & Agile:**  
+`Git` | `GitHub` | `GitLab`  
+
+Certified in **[CompTIA Project+](https://www.credly.com/badges/922e12ff-b235-422b-9097-17107f79563e/public_url)**  
+Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies  
+
+---
+
+## 🚀 Projects
+
+Here are some of the projects I’ve worked on:
+
+### 📁 [Portfolio Web](https://destrutoyt.github.io/MAGL-Portfolio)
+An upgraded portfolio featuring a sleek design, technical background, featured projects, and an enhanced contact form with multiple contact methods.
+
+### 🏝️ [Taniti Tourism Website](https://github.com/destrutoyt/Taniti-Website)
+A modern, mobile-friendly tourism site for the fictional island of Taniti. Includes detailed sections on accommodations, dining, and activities. Built with responsive HTML & CSS.
+
+### 🌍 [Interactive World Map](https://github.com/destrutoyt/Interactive-World-Map)
+An Angular-based app that fetches real-time country data from the World Bank API. Explore stats like population by clicking on any country.
+
+### 🐾 [Paradigm Pet Professionals](https://github.com/destrutoyt/Front-End-Project)
+Multi-page responsive site that educates pet owners about caring for dogs, cats, and exotic animals. Built with semantic HTML5 and modern CSS practices.
+
+### 🌦️ [Weather App](https://github.com/destrutoyt/Weather_App)
+An interactive weather app showing real-time data (temperature, wind, etc.) from specific locations. Displays dynamic conditions using a public API.
+
+### 💖 [Valentine’s Gift](https://github.com/destrutoyt/Valentine-Gift)
+A fun, animated website made to ask someone to be your Valentine — great for light-hearted creativity and seasonal design!
+
+---
+
+## 📫 How to Reach Me
+
+I'm currently not sharing personal contact info publicly, but I’d love to connect professionally:
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/)
+
+Let’s talk code, projects, and future opportunities!
+
+---
+
+## ⚡ Fun Facts
+
+- 🕹️ I enjoy game design, creative UI concepts, and exploring new tech.
+- 📚 Lifelong learner — always studying new stacks and tools.
+- 🧪 Currently diving deeper into QA automation and cloud technologies (AWS is next!).
+
+---
 
 <!--
 **destrutoyt/destrutoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-[here](myLib/README.md)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
