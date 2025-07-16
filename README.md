@@ -24,7 +24,7 @@ Always curious, always learning — and always ready for a challenge. Let’s bu
 `Python` | `JavaScript` | `Java` | `HTML` | `CSS`
 
 **Frameworks & Tools:**  
-`Angular` | `Cypress` | `Node.js` | `Bootstrap` | `MySQL` | `PostgreSQL`
+`Angular` | `Cypress` | `Node.js` | `Bootstrap` | `MySQL` | `PostgreSQL` | `Docker`
 
 **Version Control & Agile:**  
 `Git` | `GitHub` | `GitLab`  
@@ -40,6 +40,9 @@ Here are some of the projects I’ve worked on:
 
 ### 📁 [Portfolio Web](https://destrutoyt.github.io/MAGL-Portfolio)
 An upgraded portfolio featuring a sleek design, technical background, featured projects, and an enhanced contact form with multiple contact methods.
+
+### 🧪 [Cypress API Testing](https://github.com/destrutoyt/Cypress-API-Testing)
+A comprehensive Cypress-based automated API testing suite for the Conduit (RealWorld) API that includes request interception, response validation, error handling, and uses Docker for consistent, containerized execution suited for CI/CD pipelines, showcasing my back-end testing skills alongside full-stack development.
 
 ### 🏝️ [Taniti Tourism Website](https://github.com/destrutoyt/Taniti-Website)
 A modern, mobile-friendly tourism site for the fictional island of Taniti. Includes detailed sections on accommodations, dining, and activities. Built with responsive HTML & CSS.
