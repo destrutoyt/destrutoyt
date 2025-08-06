@@ -63,8 +63,9 @@ An Angular-based app that fetches real-time country data from the World Bank API
 ### 🐾 [Paradigm Pet Professionals](https://github.com/destrutoyt/Front-End-Project)
 Multi-page responsive site that educates pet owners about caring for dogs, cats, and exotic animals. Built with semantic HTML5 and modern CSS practices.
 
-### 🌦️ [Weather App](https://github.com/destrutoyt/Weather_App)
+### 🌦️ [Weather App (Development Ended)](https://github.com/destrutoyt/Weather_App)
 An interactive weather app showing real-time data (temperature, wind, etc.) from specific locations. Displays dynamic conditions using a public API.
+> This repository showcases my Python skills, but it's not maintained anymore as I am shifting my focus towards web development and quality assurance (QA). However, the app remains fully functional and available for use or reference.
 
 
 ## 📫 How to Reach Me
