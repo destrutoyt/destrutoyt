@@ -1,38 +1,48 @@
 <h1 align="center">👋 Hi there, I'm Miguel Garces Lenis!</h1>
 
 <p align="center">
-🎓 Aspiring Software Engineer | 🌐 Full-Stack Web Developer | 💻 WGU Student  
+💻 Aspiring Software Engineer | 🌐 Full-Stack Web Developer | 🧪 QA Automation & Manual | 🎓  WGU Student 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"/>
 </p>
 
 ---
 
 ## 📘 About Me
 
-I'm a passionate software engineering student at **Western Governors University**, graduating in **July 2026** 🎓. I’m actively seeking **internships** and **entry-level opportunities** in:
+I'm a passionate software engineering student at **Western Governors University**, graduating in **July 2026** 🎓. I’m actively seeking **internships** and **full-time opportunities** in:
 
 - 🌐 Front-end / Back-end / Full-stack Web Development  
 - 💡 Software Engineering  
 - 🔧 QA Automation or DevOps (open to learning more!)
 
-Always curious, always learning — and always ready for a challenge. Let’s build something amazing together! 🚀
+Always curious, always learning, and always ready for a challenge. Let’s build something amazing together! 🚀
 
----
+## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack
+**💻 Languages:**  
+JavaScript • TypeScript • Python • Java • HTML • CSS
 
-**Languages:**  
-`Python` | `JavaScript` | `Java` | `HTML` | `CSS`
+**📚 Frameworks & Libraries:**  
+AngularJS • Playwright (JavaScript/TypeScript) • Cypress
 
-**Frameworks & Tools:**  
-`Angular` | `Cypress` | `Node.js` | `Bootstrap` | `MySQL` | `PostgreSQL` | `Docker`
+**🧪 Testing & DevOps:**  
+Docker • Postman • GitHub Actions
 
-**Version Control & Agile:**  
-`Git` | `GitHub` | `GitLab`  
+**🔁 Version Control & Workflow:**  
+Git • GitHub • Agile / Scrum Methodology
 
-Certified in **[CompTIA Project+](https://www.credly.com/badges/922e12ff-b235-422b-9097-17107f79563e/public_url)**  
+**Certified in [CompTIA Project+](https://www.credly.com/badges/922e12ff-b235-422b-9097-17107f79563e/public_url)**  
 Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies  
-
----
 
 ## 🚀 Projects
 
@@ -56,28 +66,20 @@ Multi-page responsive site that educates pet owners about caring for dogs, cats,
 ### 🌦️ [Weather App](https://github.com/destrutoyt/Weather_App)
 An interactive weather app showing real-time data (temperature, wind, etc.) from specific locations. Displays dynamic conditions using a public API.
 
-### 💖 [Valentine’s Gift](https://github.com/destrutoyt/Valentine-Gift)
-A fun, animated website made to ask someone to be your Valentine — great for light-hearted creativity and seasonal design!
-
----
 
 ## 📫 How to Reach Me
-
-I'm currently not sharing personal contact info publicly, but I’d love to connect professionally:
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/)
 
 Let’s talk code, projects, and future opportunities!
 
----
 
-## ⚡ Fun Facts
+## ⚡ Interesting Facts
 
-- 🕹️ I enjoy game design, creative UI concepts, and exploring new tech.
-- 📚 Lifelong learner — always studying new stacks and tools.
-- 🧪 Currently diving deeper into QA automation and cloud technologies (AWS is next!).
-
----
+- 🎮 I AM IN LOVE WITH GAMES (Minecraft Lover)! You might find me in popular games as `destrutoyt`!
+- 🎹 I'm not Mozart, but I play piano for fun and stress relief. I'm self-taught (so mistakes happen 😅), but it's a hobby I truly enjoy.
+- 🐾 I have two cats, Nacho and Mono. They're lazy little buddies who mostly eat and sleep, but I make sure to play with them and keep them happy, just like they do for me!
+- 🌍 I love visiting countries with rich history. I once traveled to London and could honestly see myself living there. Such an interesting place!
 
 <!--
 **destrutoyt/destrutoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
