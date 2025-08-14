@@ -48,22 +48,22 @@ Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies
 
 Here are some of the projects I’ve worked on:
 
-### 📁 [Portfolio Web](https://destrutoyt.github.io/MAGL-Portfolio)
+### 📁 [Portfolio Web](https://destrutoyt.github.io/responsive-web-portfolio/)
 An upgraded portfolio featuring a sleek design, technical background, featured projects, and an enhanced contact form with multiple contact methods.
 
 ### 🧪 [Cypress API Testing](https://github.com/destrutoyt/Cypress-API-Testing)
 A comprehensive Cypress-based automated API testing suite for the Conduit (RealWorld) API that includes request interception, response validation, error handling, and uses Docker for consistent, containerized execution suited for CI/CD pipelines, showcasing my back-end testing skills alongside full-stack development.
 
-### 🏝️ [Taniti Tourism Website](https://github.com/destrutoyt/Taniti-Website)
+### 🏝️ [Taniti Tourism Website](https://destrutoyt.github.io/taniti-website/)
 A modern, mobile-friendly tourism site for the fictional island of Taniti. Includes detailed sections on accommodations, dining, and activities. Built with responsive HTML & CSS.
 
 ### 🌍 [Interactive World Map](https://github.com/destrutoyt/Interactive-World-Map)
 An Angular-based app that fetches real-time country data from the World Bank API. Explore stats like population by clicking on any country.
 
-### 🐾 [Paradigm Pet Professionals](https://github.com/destrutoyt/Front-End-Project)
+### 🐾 [Paradigm Pet Professionals](https://destrutoyt.github.io/front-end-project/)
 Multi-page responsive site that educates pet owners about caring for dogs, cats, and exotic animals. Built with semantic HTML5 and modern CSS practices.
 
-### 🌦️ [Weather App (Development Ended)](https://github.com/destrutoyt/Weather_App)
+### 🌦️ [Weather App (Development Ended)](https://github.com/destrutoyt/python_weather_app)
 An interactive weather app showing real-time data (temperature, wind, etc.) from specific locations. Displays dynamic conditions using a public API.
 > This repository showcases my Python skills, but it's not maintained anymore as I am shifting my focus towards web development and quality assurance (QA). However, the app remains fully functional and available for use or reference.
 
