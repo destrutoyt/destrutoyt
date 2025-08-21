@@ -48,7 +48,7 @@ Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies
 
 Here are some of the projects I’ve worked on:
 
-### 📁 [Portfolio Web](https://destrutoyt.github.io/responsive-web-portfolio/)
+### 📁 [Portfolio Web](https://destrutoyt.github.io/web-portfolio/)
 An upgraded portfolio featuring a sleek design, technical background, featured projects, and an enhanced contact form with multiple contact methods.
 
 ### 🧪 [Cypress API Testing](https://github.com/destrutoyt/Cypress-API-Testing)
