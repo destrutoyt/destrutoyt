@@ -30,13 +30,13 @@ Always curious, always learning, and always ready for a challenge. Let’s build
 ## 🛠️ Tech Stack & Tools
 
 **💻 Languages:**  
-JavaScript • TypeScript • Python • Java • HTML • CSS
+Java • JavaScript • TypeScript • Python • HTML • CSS
 
 **📚 Frameworks & Libraries:**  
-AngularJS • Playwright (JavaScript/TypeScript) • Cypress
+Spring • AngularJS • Playwright (JavaScript/TypeScript) • Cypress
 
 **🧪 Testing & DevOps:**  
-Docker • Postman • GitHub Actions
+Docker • Postman • GitHub Actions • K6 • Jenkins • CI/CD
 
 **🔁 Version Control & Workflow:**  
 Git • GitHub • Agile / Scrum Methodology
@@ -48,8 +48,11 @@ Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies
 
 Here are some of the projects I’ve worked on:
 
-### 📁 [Portfolio Web](https://destrutoyt.github.io/web-portfolio/)
-An upgraded portfolio featuring a sleek design, technical background, featured projects, and an enhanced contact form with multiple contact methods.
+### 🚲 [Web-based Spring Inventory Management](https://github.com/destrutoyt/spring-inventory-app)
+This project is a Spring Boot web application that allows users to manage inventory for a bike shop. It includes functionality for managing in-house parts, outsourced parts, and products, along with custom validation rules and a responsive UI.
+
+### 🎭 [Automated QA Suite for AutomationExercise Web](https://github.com/destrutoyt/playwright-qa-project-automationexercise)
+This project performs end-to-end testing to the demo website [Automation Exercise](https://automationexercise.com/). It extensively covers major user flows such as login/registration, product filtering, checkout, and API functionality.
 
 ### 🧪 [Cypress API Testing](https://github.com/destrutoyt/Cypress-API-Testing)
 A comprehensive Cypress-based automated API testing suite for the Conduit (RealWorld) API that includes request interception, response validation, error handling, and uses Docker for consistent, containerized execution suited for CI/CD pipelines, showcasing my back-end testing skills alongside full-stack development.
@@ -65,13 +68,12 @@ Multi-page responsive site that educates pet owners about caring for dogs, cats,
 
 ### 🌦️ [Weather App (Development Ended)](https://github.com/destrutoyt/python_weather_app)
 An interactive weather app showing real-time data (temperature, wind, etc.) from specific locations. Displays dynamic conditions using a public API.
-> This repository showcases my Python skills, but it's not maintained anymore as I am shifting my focus towards web development and quality assurance (QA). However, the app remains fully functional and available for use or reference.
+> This repository showcases my Python skills, but it's not maintained anymore as I am shifting my focus towards other areas of Software Engineering. However, the app remains fully functional and available for use or reference.
 
 
 ## 📫 How to Reach Me
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/)
-
 Let’s talk code, projects, and future opportunities!
 
 
