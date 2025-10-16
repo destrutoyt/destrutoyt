@@ -5,14 +5,29 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <!-- Primary Language -->
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java"/>
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+
+  <!-- Testing Tools -->
   <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"/>
+
+  <!-- Other Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ---
@@ -25,15 +40,13 @@ I'm a passionate software engineering student at **Western Governors University*
 - 💡 Software Engineering  
 - 🔧 QA Automation or DevOps (open to learning more!)
 
-Always curious, always learning, and always ready for a challenge. Let’s build something amazing together! 🚀
-
 ## 🛠️ Tech Stack & Tools
 
 **💻 Languages:**  
 Java • JavaScript • TypeScript • Python • HTML • CSS
 
 **📚 Frameworks & Libraries:**  
-Spring • AngularJS • Playwright (JavaScript/TypeScript) • Cypress
+Spring/Spring Boot • AngularJS • Playwright (JavaScript/TypeScript) • Cypress
 
 **🧪 Testing & DevOps:**  
 Docker • Postman • GitHub Actions • K6 • Jenkins • CI/CD
@@ -48,11 +61,14 @@ Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies
 
 Here are some of the projects I’ve worked on:
 
+### 🛒 [PC Market | Full Stack eCommerce Web](https://github.com/users/destrutoyt/projects/2) ==**MVP COMING BEFORE END OF OCTOBER**==
+This project is a full-stack eCommerce web application for browsing and purchasing computer components. The backend is built with **Spring Boot** and **Java**, featuring RESTful APIs, user authentication, and product/order management integrated with **MySQL** and **PostgreSQL** databases. The frontend is developed using **Angular** and **TypeScript**, providing a responsive and dynamic shopping experience with real-time data updates.
+
 ### 🚲 [Web-based Spring Inventory Management](https://github.com/destrutoyt/spring-inventory-app)
 This project is a Spring Boot web application that allows users to manage inventory for a bike shop. It includes functionality for managing in-house parts, outsourced parts, and products, along with custom validation rules and a responsive UI.
 
 ### 🎭 [Automated QA Suite for AutomationExercise Web](https://github.com/destrutoyt/playwright-qa-project-automationexercise)
-This project performs end-to-end testing to the demo website [Automation Exercise](https://automationexercise.com/). It extensively covers major user flows such as login/registration, product filtering, checkout, and API functionality.
+This project performs end-to-end testing to the demo website [Automation Exercise](https://automationexercise.com/). It extensively covers major user flows, including login/registration, product filtering, checkout, and API functionality.
 
 ### 🧪 [Cypress API Testing](https://github.com/destrutoyt/Cypress-API-Testing)
 A comprehensive Cypress-based automated API testing suite for the Conduit (RealWorld) API that includes request interception, response validation, error handling, and uses Docker for consistent, containerized execution suited for CI/CD pipelines, showcasing my back-end testing skills alongside full-stack development.
@@ -64,18 +80,16 @@ A modern, mobile-friendly tourism site for the fictional island of Taniti. Inclu
 An Angular-based app that fetches real-time country data from the World Bank API. Explore stats like population by clicking on any country.
 
 ### 🐾 [Paradigm Pet Professionals](https://destrutoyt.github.io/front-end-project/)
-Multi-page responsive site that educates pet owners about caring for dogs, cats, and exotic animals. Built with semantic HTML5 and modern CSS practices.
+A multi-page, responsive site that educates pet owners on caring for dogs, cats, and exotic animals. Built with semantic HTML5 and modern CSS practices.
 
 ### 🌦️ [Weather App (Development Ended)](https://github.com/destrutoyt/python_weather_app)
 An interactive weather app showing real-time data (temperature, wind, etc.) from specific locations. Displays dynamic conditions using a public API.
-> This repository showcases my Python skills, but it's not maintained anymore as I am shifting my focus towards other areas of Software Engineering. However, the app remains fully functional and available for use or reference.
-
+This repository showcases my Python skills, but it's no longer maintained as I am shifting my focus to other areas of Software Engineering. However, the app remains fully functional and available for use or reference.
 
 ## 📫 How to Reach Me
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/)
 Let’s talk code, projects, and future opportunities!
-
 
 ## ⚡ Interesting Facts
 
