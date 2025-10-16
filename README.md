@@ -62,13 +62,13 @@ Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies
 Here are some of the projects I’ve worked on:
 
 ### 🛒 [PC Market | Full Stack eCommerce Web](https://github.com/users/destrutoyt/projects/2) ==**MVP COMING BEFORE END OF OCTOBER**==
-This project is a full-stack eCommerce web application for browsing and purchasing computer components. The backend is built with **Spring Boot** and **Java**, featuring RESTful APIs, user authentication, and product/order management integrated with **MySQL** and **PostgreSQL** databases. The frontend is developed using **Angular** and **TypeScript**, providing a responsive and dynamic shopping experience with real-time data updates.
+This project is a full-stack eCommerce web application for browsing and purchasing pre-built or custom PCs & laptops. The backend is built with **Spring Boot** and **Java**, featuring RESTful APIs, user authentication, and product/order management integrated with **MySQL** and **PostgreSQL** databases. The frontend is developed using **Angular** and **TypeScript**, providing a responsive and dynamic shopping experience with real-time data updates.
 
 ### 🚲 [Web-based Spring Inventory Management](https://github.com/destrutoyt/spring-inventory-app)
 This project is a Spring Boot web application that allows users to manage inventory for a bike shop. It includes functionality for managing in-house parts, outsourced parts, and products, along with custom validation rules and a responsive UI.
 
 ### 🎭 [Automated QA Suite for AutomationExercise Web](https://github.com/destrutoyt/playwright-qa-project-automationexercise)
-This project performs end-to-end testing to the demo website [Automation Exercise](https://automationexercise.com/). It extensively covers major user flows, including login/registration, product filtering, checkout, and API functionality.
+This project performs end-to-end testing on the demo website [Automation Exercise](https://automationexercise.com/). It extensively covers major user flows, including login/registration, product filtering, checkout, and API functionality.
 
 ### 🧪 [Cypress API Testing](https://github.com/destrutoyt/Cypress-API-Testing)
 A comprehensive Cypress-based automated API testing suite for the Conduit (RealWorld) API that includes request interception, response validation, error handling, and uses Docker for consistent, containerized execution suited for CI/CD pipelines, showcasing my back-end testing skills alongside full-stack development.
