@@ -49,7 +49,7 @@ Java • JavaScript • TypeScript • Python • HTML • CSS
 Spring/Spring Boot • AngularJS • Playwright (JavaScript/TypeScript) • Cypress
 
 **🧪 Testing & DevOps:**  
-Docker • Postman • GitHub Actions • K6 • Jenkins • CI/CD
+Docker • Postman • GitHub Actions • K6 • Jenkins • CI/CD • AWS
 
 **🔁 Version Control & Workflow:**  
 Git • GitHub • Agile / Scrum Methodology
@@ -61,7 +61,7 @@ Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies
 
 Here are some of the projects I’ve worked on:
 
-### 🛒 [PC Market | Full Stack eCommerce Web](https://github.com/users/destrutoyt/projects/2) ==**MVP COMING BEFORE END OF OCTOBER**==
+### 🛒 [PC Market | Full Stack eCommerce Web]() ==**COMING SOON**==
 This project is a full-stack eCommerce web application for browsing and purchasing pre-built or custom PCs & laptops. The backend is built with **Spring Boot** and **Java**, featuring RESTful APIs, user authentication, and product/order management integrated with **MySQL** and **PostgreSQL** databases. The frontend is developed using **Angular** and **TypeScript**, providing a responsive and dynamic shopping experience with real-time data updates.
 
 ### 🚲 [Web-based Spring Inventory Management](https://github.com/destrutoyt/spring-inventory-app)
