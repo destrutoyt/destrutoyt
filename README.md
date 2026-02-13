@@ -38,7 +38,7 @@ I'm a passionate software engineering student at **Western Governors University*
 
 - 🌐 Front-end / Back-end / Full-stack Web Development  
 - 💡 Software Engineering  
-- 🔧 QA Automation or DevOps (open to learning more!)
+- 🔧 QA Automation / DevOps
 
 ## 🛠️ Tech Stack & Tools
 
@@ -61,7 +61,7 @@ Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies
 
 Here are some of the projects I’ve worked on:
 
-### 🛒 [PC Market | Full Stack eCommerce Web]() ==**COMING SOON**==
+### 🛒 [PC Market | Full Stack eCommerce Web]() ==**MVP Releasing By March**==
 This project is a full-stack eCommerce web application for browsing and purchasing pre-built or custom PCs & laptops. The backend is built with **Spring Boot** and **Java**, featuring RESTful APIs, user authentication, and product/order management integrated with **MySQL** and **PostgreSQL** databases. The frontend is developed using **Angular** and **TypeScript**, providing a responsive and dynamic shopping experience with real-time data updates.
 
 ### 🚲 [Web-based Spring Inventory Management](https://github.com/destrutoyt/spring-inventory-app)
