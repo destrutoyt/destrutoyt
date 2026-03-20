@@ -61,8 +61,8 @@ Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies
 
 Here are some of the projects I’ve worked on:
 
-### 🛒 [PC Market | Full Stack eCommerce Web]() ==**MVP Releasing By March**==
-This project is a full-stack eCommerce web application for browsing and purchasing pre-built or custom PCs & laptops. The backend is built with **Spring Boot** and **Java**, featuring RESTful APIs, user authentication, and product/order management integrated with **MySQL** and **PostgreSQL** databases. The frontend is developed using **Angular** and **TypeScript**, providing a responsive and dynamic shopping experience with real-time data updates.
+### 🛒 [PC Market | Full Stack eCommerce Web](https://the-pc-market.netlify.app/) ==**MVP (Transitioning to AWS soon)**==
+This project is a full-stack eCommerce web application for browsing and purchasing pre-built or custom PCs & laptops. The backend is built with **Spring Boot** and **Java**, featuring RESTful APIs, user authentication, and product/order management integrated with **MySQL** and **PostgreSQL** databases. The frontend is developed with **Angular** and **TypeScript**, providing a responsive, dynamic shopping experience with real-time data updates.
 
 ### 🚲 [Web-based Spring Inventory Management](https://github.com/destrutoyt/spring-inventory-app)
 This project is a Spring Boot web application that allows users to manage inventory for a bike shop. It includes functionality for managing in-house parts, outsourced parts, and products, along with custom validation rules and a responsive UI.
