@@ -32,7 +32,7 @@
 
 ## 📘 About Me
 
-I'm a software engineering graduate from **Western Governors University** 🎓 with hands-on experience in **DevOps, cloud infrastructure, and CI/CD automation**. During my DevOps internship at **CUES Inc.**, I worked on Linux-based build infrastructure, AWS cost optimization, and improving development and release workflows.
+I'm a software engineering graduate from **Western Governors University** 🎓 with hands-on experience in **DevOps, cloud infrastructure, and CI/CD automation**.
 
 I’m currently seeking **DevOps Engineer**, **Infrastructure Engineer**, and **Platform Engineer** opportunities where I can help make systems more reliable, deployments more repeatable, and engineering workflows easier to maintain.
 
