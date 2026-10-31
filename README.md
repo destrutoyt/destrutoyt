@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Miguel Garces Lenis!</h1>
 
 <p align="center">
-🛠️ Aspiring DevOps / Platform Engineer | ☁️ Cloud & Infrastructure | 🎓 WGU Software Engineering Alumni
+🛠️ DevOps / Platform Engineer | ☁️ Cloud & Infrastructure | 🎓 WGU Software Engineering Alumni
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ## 📘 About Me
 
-I'm a software engineering graduate from **Western Governors University** 🎓 with hands-on experience in **DevOps, cloud infrastructure, and CI/CD automation**.
+I'm a software engineering graduate from **Western Governors University** with hands-on experience in **DevOps, cloud infrastructure, and CI/CD automation**.
 
 I’m currently seeking **DevOps Engineer**, **Infrastructure Engineer**, and **Platform Engineer** opportunities where I can help make systems more reliable, deployments more repeatable, and engineering workflows easier to maintain.
 
