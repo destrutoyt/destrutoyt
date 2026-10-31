@@ -1,102 +1,107 @@
 <h1 align="center">👋 Hi there, I'm Miguel Garces Lenis!</h1>
 
 <p align="center">
-💻 Aspiring Software Engineer | 🌐 Full-Stack Web Developer | 🧪 QA Automation & Manual | 🎓  WGU Student 
+🛠️ Aspiring DevOps / Platform Engineer | ☁️ Cloud & Infrastructure | 🎓 WGU Software Engineering Alumni
 </p>
 
 <p align="center">
-  <!-- Primary Language -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java"/>
-  
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Spring"/>
+  <!-- DevOps, Cloud & Infrastructure -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white" alt="Proxmox"/>
+</p>
+
+<p align="center">
+  <!-- Development & Testing -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
-  
-  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-
-  <!-- Testing Tools -->
   <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"/>
-
-  <!-- Other Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ---
 
 ## 📘 About Me
 
-I'm a passionate software engineering student at **Western Governors University**, graduating in **July 2026** 🎓. I’m actively seeking **internships** and **full-time opportunities** in:
+I'm a software engineering graduate from **Western Governors University** 🎓 with hands-on experience in **DevOps, cloud infrastructure, and CI/CD automation**. During my DevOps internship at **CUES Inc.**, I worked on Linux-based build infrastructure, AWS cost optimization, and improving development and release workflows.
 
-- 🌐 Front-end / Back-end / Full-stack Web Development  
-- 💡 Software Engineering  
-- 🔧 QA Automation / DevOps
+I’m currently seeking **DevOps Engineer**, **Infrastructure Engineer**, and **Platform Engineer** opportunities where I can help make systems more reliable, deployments more repeatable, and engineering workflows easier to maintain.
+
+## 💼 Experience
+
+### DevOps Intern — CUES Inc.  
+*June 2026 – October 2026*
+
+- Reduced build time by **56.7%** in the team’s largest repository by adding pipeline caching across **10+ submodules**.
+- Used **AWS CloudWatch** and **Cost Explorer** to identify and address resource inefficiencies, reducing monthly operating costs by more than **$450**.
+- Standardized automation across **10+ repositories** using reusable Invoke commands, Docker configurations, Bash scripts, SSH access, and shared dependencies.
+- Migrated **two Proxmox servers** hosting Linux CI runners and configured user accounts and static IP assignments.
+- Migrated a Jenkins workflow to **Bitbucket Pipelines**.
+- Helped centralize build artifacts in **AWS S3**, adding versioning and lifecycle policies for retention and cleanup.
+- Created **two AWS IAM roles** for releases and artifact uploads, restricting S3 access to designated prefixes and integrating the roles with Bitbucket Pipelines.
+- Documented CI/CD pipelines, automation workflows, development tools, and Git strategies.
 
 ## 🛠️ Tech Stack & Tools
 
-**💻 Languages:**  
-Java • JavaScript • TypeScript • Python • HTML • CSS
+**☁️ Cloud & Infrastructure:**  
+AWS • Terraform • Proxmox • Amazon S3 • IAM
 
-**📚 Frameworks & Libraries:**  
-Spring/Spring Boot • AngularJS • Playwright (JavaScript/TypeScript) • Cypress
+**🔄 DevOps & Automation:**  
+Bitbucket Pipelines • Jenkins • GitHub Actions • Docker • Linux • Bash • SSH • Invoke
 
-**🧪 Testing & DevOps:**  
-Docker • Postman • GitHub Actions • K6 • Jenkins • CI/CD • AWS
+**📊 Monitoring & Optimization:**  
+AWS CloudWatch • AWS Cost Explorer
+
+**💻 Development:**  
+Java • Spring Boot • JavaScript • TypeScript • Python • Angular • MySQL • PostgreSQL
+
+**🧪 Testing:**  
+Playwright • Cypress • Postman
 
 **🔁 Version Control & Workflow:**  
-Git • GitHub • Agile / Scrum Methodology
+Git • GitHub • Agile / Scrum
 
 **Certified in [CompTIA Project+](https://www.credly.com/badges/922e12ff-b235-422b-9097-17107f79563e/public_url)**  
-Familiar with **Agile**, **Scrum**, **Waterfall**, and **PRINCE2** methodologies  
+Currently working towards **AWS Certified Solutions Architect**.
 
 ## 🚀 Projects
 
 Here are some of the projects I’ve worked on:
 
-### 🛒 [PC Market | Full Stack eCommerce Web](https://the-pc-market.netlify.app/) ==**MVP (Transitioning to AWS soon)**==
-This project is a full-stack eCommerce web application for browsing and purchasing pre-built or custom PCs & laptops. The backend is built with **Spring Boot** and **Java**, featuring RESTful APIs, user authentication, and product/order management integrated with **MySQL** and **PostgreSQL** databases. The frontend is developed with **Angular** and **TypeScript**, providing a responsive, dynamic shopping experience with real-time data updates.
+### 🛒 [PC Market | Full-Stack eCommerce Web](https://the-pc-market.netlify.app/)
+A full-stack eCommerce application built with **Angular** and **Spring Boot**, featuring authentication, product management, and order processing. I’ve also used **Terraform** to define AWS development infrastructure, including EC2 resources and security group rules.
 
-### 🚲 [Web-based Spring Inventory Management](https://github.com/destrutoyt/spring-inventory-app)
-This project is a Spring Boot web application that allows users to manage inventory for a bike shop. It includes functionality for managing in-house parts, outsourced parts, and products, along with custom validation rules and a responsive UI.
+### 🧪 [Automated QA Suite for AutomationExercise](https://github.com/destrutoyt/playwright-qa-project-automationexercise)
+An end-to-end testing suite covering key e-commerce user flows. It uses Docker and CI/CD practices to support consistent test execution.
 
-### 🎭 [Automated QA Suite for AutomationExercise Web](https://github.com/destrutoyt/playwright-qa-project-automationexercise)
-This project performs end-to-end testing on the demo website [Automation Exercise](https://automationexercise.com/). It extensively covers major user flows, including login/registration, product filtering, checkout, and API functionality.
+### 🧩 [Cypress API Testing](https://github.com/destrutoyt/Cypress-API-Testing)
+A Cypress-based API testing suite covering CRUD operations, authentication, and error handling, with Docker integration for consistent setup.
 
-### 🧪 [Cypress API Testing](https://github.com/destrutoyt/Cypress-API-Testing)
-A comprehensive Cypress-based automated API testing suite for the Conduit (RealWorld) API that includes request interception, response validation, error handling, and uses Docker for consistent, containerized execution suited for CI/CD pipelines, showcasing my back-end testing skills alongside full-stack development.
-
-### 🏝️ [Taniti Tourism Website](https://destrutoyt.github.io/taniti-website/)
-A modern, mobile-friendly tourism site for the fictional island of Taniti. Includes detailed sections on accommodations, dining, and activities. Built with responsive HTML & CSS.
-
-### 🌍 [Interactive World Map](https://github.com/destrutoyt/Interactive-World-Map)
-An Angular-based app that fetches real-time country data from the World Bank API. Explore stats like population by clicking on any country.
-
-### 🐾 [Paradigm Pet Professionals](https://destrutoyt.github.io/front-end-project/)
-A multi-page, responsive site that educates pet owners on caring for dogs, cats, and exotic animals. Built with semantic HTML5 and modern CSS practices.
-
-### 🌦️ [Weather App (Development Ended)](https://github.com/destrutoyt/python_weather_app)
-An interactive weather app showing real-time data (temperature, wind, etc.) from specific locations. Displays dynamic conditions using a public API.
-This repository showcases my Python skills, but it's no longer maintained as I am shifting my focus to other areas of Software Engineering. However, the app remains fully functional and available for use or reference.
+### 🚲 [Spring Inventory Management](https://github.com/destrutoyt/spring-inventory-app)
+A Spring Boot application for managing bike shop inventory, including in-house and outsourced parts, products, and custom validation.
 
 ## 📫 How to Reach Me
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/)
-Let’s talk code, projects, and future opportunities!
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/miguelgarcesl/)  
+💻 [GitHub Profile](https://github.com/destrutoyt)
+
+Let’s talk infrastructure, automation, projects, and future opportunities!
 
 ## ⚡ Interesting Facts
 
 - 🎮 I AM IN LOVE WITH GAMES (Minecraft Lover)! You might find me in popular games as `destrutoyt`!
-- 🎹 I'm not Mozart, but I play piano for fun and stress relief. I'm self-taught (so mistakes happen 😅), but it's a hobby I truly enjoy.
-- 🐾 I have two cats, Nacho and Mono. They're lazy little buddies who mostly eat and sleep, but I make sure to play with them and keep them happy, just like they do for me!
-- 🌍 I love visiting countries with rich history. I once traveled to London and could honestly see myself living there. Such an interesting place!
+- 🎹 I'm not Mozart, but I play piano for fun and stress relief. I'm self-taught, so mistakes happen 😅.
+- 🐾 I have two cats, Nacho and Mono. They're lazy little buddies who mostly eat and sleep!
+- 🌍 I love visiting countries with rich history and delicious food!
 
 <!--
 **destrutoyt/destrutoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
